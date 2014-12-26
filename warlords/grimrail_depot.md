@@ -1,7 +1,5 @@
 ---
 ---
-{% include header.md %}
-
 # Grimrail Depot
 
 ## Rocketspark and Borka
@@ -28,5 +26,3 @@
 ## Links
 * [Wowhead](http://www.wowhead.com/guide=2666/grimrail-depot-dungeon-strategy-guide)
 * [TenTon Hammer](http://www.tentonhammer.com/guides/world-warcraft/warlords-draenor-grimrail-depot-guide)
-
-{% include footer.md %}
