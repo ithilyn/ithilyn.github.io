@@ -1,4 +1,8 @@
+---
+---
+{% include header.md %}
 # Grimrail Depot
+---
 
 ## Rocketspark and Borka
 * Tank aims Borka's [Mad Dash](http://www.wowhead.com/spell=161089) at Rocketspark to knock him down.
@@ -23,3 +27,5 @@
 ## Links
 * [Wowhead](http://www.wowhead.com/guide=2666/grimrail-depot-dungeon-strategy-guide)
 * [TenTon Hammer](http://www.tentonhammer.com/guides/world-warcraft/warlords-draenor-grimrail-depot-guide)
+
+{% include footer.md %}
