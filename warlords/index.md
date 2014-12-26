@@ -4,7 +4,7 @@
 # Warlords
 ---
 
-* [Grimrail Depot](grimrail_depot.md)
+* [Grimrail Depot](grimrail_depot)
 
 {% include footer.md %}
 
