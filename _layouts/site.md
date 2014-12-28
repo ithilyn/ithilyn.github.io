@@ -6,6 +6,9 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Ithilyn's Wiki">
+        <meta name="author" content="Ithilyn">
+
         <title>Ithilyn's Wiki</title>
         
         <!-- Latest compiled and minified CSS -->
@@ -14,8 +17,8 @@
         <!-- Optional theme -->
         <!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css"> -->
 
-        <!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.1/darkly/bootstrap.min.css"> -->
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.1/slate/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.1/darkly/bootstrap.min.css">
+        <!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.1/slate/bootstrap.min.css"> -->
 
         <!-- Wowhead.com tooltips -->
         <script type="text/javascript" src="//static.wowhead.com/widgets/power.js"></script><script>var wowhead_tooltips = { "colorlinks": true, "iconizelinks": true, "renamelinks": true }</script>
@@ -57,7 +60,9 @@
 
 
     <div class="container">
+        <!-- BEGIN CONTENT -->
         {{content}}
+        <!-- END CONTENT -->
     </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
