@@ -6,8 +6,8 @@
 <!-- Latest compiled and minified CSS -->
 <!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"> -->
 
-<!-- Darkly theme -->
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.1/darkly/bootstrap.min.css">
+<!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.1/darkly/bootstrap.min.css"> -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.1/slate/bootstrap.min.css">
 
 <!-- Optional theme -->
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
