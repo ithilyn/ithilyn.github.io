@@ -1,7 +1,8 @@
 ---
 layout: site
+title: Grimrail Depot
 ---
-# Grimrail Depot
+# {{page.title}}
 
 ## Rocketspark and Borka
 * Tank aims Borka's [Mad Dash](http://www.wowhead.com/spell=161089) at Rocketspark to knock him down.
