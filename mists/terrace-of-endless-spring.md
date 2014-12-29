@@ -18,6 +18,7 @@ title: Terrace of Endless Springs
 /raid Stand behind tanks, kill adds by getting behind them, get back behind tanks before breath, kill mini-bosses at the pagodas when transported there.
 
 ----
+
 ## Links
 * [Ten Ton Hammer](http://www.tentonhammer.com/wow/guides/raids/terrace-of-endless-springs)
 * [Terrace of Endless Spring LFR Guide](https://www.youtube.com/watch?v=d0Tom1e3WSY)
