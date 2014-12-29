@@ -6,21 +6,21 @@ title: Throne of the Four Winds
   * all Djinn must be killed within 1 minute of each other
   * bring down Rohash and Anshal evenly during recharge phase, then Nezir during full energy phase.
   * key is finding right balance of DPS for each group
-  * The tank and tank healers for Anshal and Nezir will swap positions every other recharging phase to deal with the stacking [Wind Chill](http://www.wowhead.com/?spell=93123) debuff.
+  * The tank and tank healers for Anshal and Nezir will swap positions every other recharging phase to deal with the stacking [Wind Chill](http://www.wowhead.com/spell=84645) debuff.
   * **Anshal** - Nature (Green)
     * requires tank, extra dps, slightly more healers
-    * dps must split up and burn down Ravenous Creepers so [[http://www.wowhead.com/?spell=93121|Toxic Spores]] don't stack too much on everyone
+    * dps must split up and burn down Ravenous Creepers so [Toxic Spores](http://www.wowhead.com/?spell=93121) don't stack too much on everyone
     * Avoid [Soothing Winds](http://www.wowhead.com/?spell=86206) green circle on the ground, silences players, heals him and Creepers
   * **Rohash** - Wind (Red)
     * requires no tank, fewer dps (ranged preferred), fewer healers
-    * [Tornado](http://www.wowhead.com/?spell=93142)
-    * [Wind Blast](http://www.wowhead.com/?spell=93139)
+    * [Hurricane](http://www.wowhead.com/spell=84643)
+    * [Wind Blast](http://www.wowhead.com/spell=86193)
       * He will start at a random direction and move clockwise for 10 seconds, blasting anyone in his line of sight. Everyone on the platform needs to move clockwise to avoid the blast or be knocked off and most likely killed.
   * **Nezir** - Frost (Blue)
     * requires a tank and healer(s?), no dps
-    * tank faces him away for [[http://www.wowhead.com/?spell=93123|Permafrost]]
-    * healers move out of any [[http://www.wowhead.com/?spell=93130|Ice Patches]], don't stand on pathways coming into the platform (so you don't cause Ice Patches to drop in the way of dps coming in for full energy phase)
-    * damage will increase due to [[http://www.wowhead.com/?spell=93123|Wind Chill]]
+    * tank faces him away for [Permafrost](http://www.wowhead.com/spell=86082)
+    * healers move out of any [Ice Patch](http://www.wowhead.com/spell=86111)es, don't stand on pathways coming into the platform (so you don't cause Ice Patches to drop in the way of dps coming in for full energy phase)
+    * damage will increase due to [Wind Chill](http://www.wowhead.com/spell=84645)
   * Full Energy phase
     * Nezir: [[http://www.wowhead.com/?spell=86367|Sleet Storm]]
       * dps burn, healers deal with raid damage
