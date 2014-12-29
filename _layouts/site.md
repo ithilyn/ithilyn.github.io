@@ -43,9 +43,8 @@
   </div>
 
   <div class="navbar-collapse collapse navbar-responsive-collapse">
-    <ul class="nav navbar-nav">
-        | {{page.title}}
-        <a target="_blank" href="//github.com/ithilyn/ithilyn.github.io/edit/master/{{page.path}}">[Edit]</a>
+    <ul class="nav navbar-nav navbar-right">
+        <li><a target="_blank" href="//github.com/ithilyn/ithilyn.github.io/edit/master/{{page.path}}">[Edit]</a></li>
     </ul>
   </div>
 
