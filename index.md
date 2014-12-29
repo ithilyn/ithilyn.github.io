@@ -33,62 +33,63 @@ title: Ithilyn's Wiki
   * [Stormstout Brewery \[SB\]](mists/stormstout-brewery)
   * [Temple of the Jade Serpent \[TJS\]](mists/temple-of-the=jade-serpent)
 
-=== Mists info ===
-  * [[http://www.mmo-champion.com/threads/1187382-MoP-Holy-Paladin-Guide-5-0|Kerfax's Guide on MMO Champion]]
-  * [[http://bossypally.wordpress.com/2012/11/02/how-im-healing-in-mop-holy-pally-4eva-stats/|Bossy Pally's guide to stats, enchants, gems]]
-  * [[mists:How to play Holy|How to play a Holy Paladin]]
-  * [[mists:How to play Ret|How to play a Ret Paladin]]
-  * [[mists:How to play a Discipline Priest]]
-  * [[mists:Priest mouse click bindings]]
+## Mists info
+  * [Kerfax's Guide on MMO Champion](http://www.mmo-champion.com/threads/1187382-MoP-Holy-Paladin-Guide-5-0)
+  * [Bossy Pally's guide to stats, enchants, gems](http://bossypally.wordpress.com/2012/11/02/how-im-healing-in-mop-holy-pally-4eva-stats/)
+  * [How to play a Holy Paladin](mists/how-to-play-holy)
+  * [How to play a Ret Paladin](mists/how-to-play-ret)
+  * [How to play a Discipline Priest](mists/how-to-play-a-discipline-priest)
+  * [Priest mouse click bindings](mists/priest-mouse-click-bindings)
 
 ----
-=== Cata Raids ===
-  * [[Firelands]]
-  * [[Blackwing Descent]]
-  * [[Bastion of Twilight]]
-  * [[Throne of the Four Winds]]
-  * [[Baradin Hold]]
 
-=== Cata Dungeons ===
-  * [[Zul'Aman]]
-  * [[Zul'Gurub]]
-  * [[H:Shadowfang Keep]]
-  * [[H:Deadmines]]
-  * [[Halls of Origination]]
-  * [[Grim Batol]]
-  * [[Lost City of the Tol'vir]]
-  * [[Vortex Pinnacle]]
-  * [[The Stonecore]]
-  * [[Blackrock Caverns]]
-  * [[Throne of the Tides]]
+## Cata Raids
+  * [Firelands](cata/firelands)
+  * [Blackwing Descent](cata/blackwing-descent)
+  * [Bastion of Twilight](cata/bastion-of-twilight)
+  * [Throne of the Four Winds](cata/throne-of-the-four-winds)
+  * [Baradin Hold](cata/baradin-hold)
 
-=== Cata info ===
-  * [[42notes|4.2 notes]]
-  * [[42wishlist|Wish list, 4.2]]
-  * [[wishlist|Wish list]]
-  * [[cata:Links]]
-  * [[4.0 links]]
-  * [[todo|Old To do list]]
+## Cata Dungeons
+  * [Zul'Aman](cata/zul-aman)
+  * [Zul'Gurub](cata/zul-gurub
+  * [H:Shadowfang Keep](cata/shadowfang-keep)
+  * [H:Deadmines](cata/deadmines)
+  * [Halls of Origination](cata/halls-of-origination)
+  * [Grim Batol](cata/grim-batol)
+  * [Lost City of the Tol'vir](cata/lost-city-of-the-tol-vir)
+  * [Vortex Pinnacle](cata/vortex-pinnacle)
+  * [The Stonecore](cata/the-stonecore)
+  * [Blackrock Caverns](cata/blackrock-caverns)
+  * [Throne of the Tides](cata/throne-of-the-tides)
 
-----
-=== Wrath Raids ===
-  * [[Ruby Sanctum]]
-  * [[ICC notes|ICC]]
-  * [[ToC notes|ToC]]
-  * [[Ulduar notes|Ulduar]]
-  * [[EoE notes|EoE]]
-  * [[Naxx notes|Naxx]]
-
-=== Wrath Info ===
-  * [[Old Stuff]]
+## Cata info
+  * [4.2 notes](cata/4-2-notes)
+  * [4.2 Wish list](cata/4-2-wish-list)
+  * [Wish list](cata/wish-list)
+  * [Links](cata/links)
+  * [4.0 links](cata/4-0-links)
+  * [To do list (old)](cata/todo)
 
 ----
-=== Other ===
-  * [[http://us.battle.net/wow/en/character/hyjal/mythrin/advanced|Mythrin on Battle.net]]
-  * [[http://www.worldoflogs.com/guilds/111477/|Night Owl Raid Group WoL]]
-  * [[http://worldoflogs.com/guilds/97494/|Apotheosis WoL]]
-  * [[http://purgatory.guildwebsite.info/|Purgatory Guild]]
-  * [[http://www.guildportal.com/Guild.aspx?GuildID=341204&TabID=2856310|Burninators Guild]]
-  * [[http://www.askmrrobot.com/wow/gear/usa/cenarius/mythrin#v1-z1|Ask Mr. Robot Optimizer]]
-  * [[http://ithilyn.com/ithilyn-wowhead.user.js|Greasemonkey script to enable Wowhead tooltips on this site]] (not needed anymore)
-    * [[http://lifehacker.com/5919997/how-to-install-extensions-that-arent-from-the-official-chrome-web-store|How to install the above extension as on newer Chromes]]
+
+## Wrath Raids
+  * [Ruby Sanctum](wrath/ruby-sanctum)
+  * [ICC notes|ICC](wrath/icc)
+  * [ToC notes|ToC](wrath/toc)
+  * [Ulduar notes|Ulduar](wrath/ulduar)
+  * [EoE notes|EoE](wrath/eoe)
+  * [Naxx notes|Naxx](wrath/naxx)
+
+## Wrath Info
+  * [Old Stuff](wrath/old-stuff)
+
+----
+
+## Other
+  * [Mythrin on Battle.net](http://us.battle.net/wow/en/character/hyjal/mythrin/advanced)
+  * [Night Owl Raid Group WoL](http://www.worldoflogs.com/guilds/111477/)
+  * [Apotheosis WoL](http://worldoflogs.com/guilds/97494/)
+  * [Purgatory Guild](http://purgatory.guildwebsite.info/)
+  * [Burninators Guild](http://www.guildportal.com/Guild.aspx?GuildID=341204&TabID=2856310)
+  * [Ask Mr. Robot Optimizer](http://www.askmrrobot.com/wow/gear/usa/cenarius/mythrin#v1-z1)
