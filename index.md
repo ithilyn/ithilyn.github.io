@@ -6,12 +6,12 @@ title: Ithilyn's Wiki
 ## Warlords Dungeons
   * [Bloodmaul Slag Mines](warlords/bloodmaul-slag-mines)
   * [Iron Docks](warlords/iron-docks)
-  * [Auchindoun][warlords/auchindoun]]
-  * [Skyreach][warlords/skyreach]]
-  * [Shadowmoon Burial Grounds][warlords/shadowmoon-burial-grounds]
-  * [The Everbloom][warlords/the-everbloom]
-  * [Grimrail Depot][warlords/grimrail-depot]
-  * [Upper Blackrock Spire][warlords/upper-blackrock-spire]
+  * [Auchindoun](warlords/auchindoun)
+  * [Skyreach](warlords/skyreach)
+  * [Shadowmoon Burial Grounds](warlords/shadowmoon-burial-grounds)
+  * [The Everbloom](warlords/the-everbloom)
+  * [Grimrail Depot](warlords/grimrail-depot)
+  * [Upper Blackrock Spire](warlords/upper-blackrock-spire)
 
 ----
 
@@ -52,7 +52,7 @@ title: Ithilyn's Wiki
 
 ## Cata Dungeons
   * [Zul'Aman](cata/zul-aman)
-  * [Zul'Gurub](cata/zul-gurub
+  * [Zul'Gurub](cata/zul-gurub)
   * [H:Shadowfang Keep](cata/shadowfang-keep)
   * [H:Deadmines](cata/deadmines)
   * [Halls of Origination](cata/halls-of-origination)
@@ -75,11 +75,11 @@ title: Ithilyn's Wiki
 
 ## Wrath Raids
   * [Ruby Sanctum](wrath/ruby-sanctum)
-  * [ICC notes|ICC](wrath/icc)
-  * [ToC notes|ToC](wrath/toc)
-  * [Ulduar notes|Ulduar](wrath/ulduar)
-  * [EoE notes|EoE](wrath/eoe)
-  * [Naxx notes|Naxx](wrath/naxx)
+  * [ICC notes](wrath/icc)
+  * [ToC notes](wrath/toc)
+  * [Ulduar notes](wrath/ulduar)
+  * [EoE notes](wrath/eoe)
+  * [Naxx notes](wrath/naxx)
 
 ## Wrath Info
   * [Old Stuff](wrath/old-stuff)
