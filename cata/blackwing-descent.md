@@ -46,7 +46,7 @@ title: Blackwing Descent
 
 ## Maloriak
   * [Arcane Storm](http://www.wowhead.com/spell=77896) (6sec channeled): someone must interrupt!
-  * [Remedy](http://www.wowhead.com/spell=92967): someone must dispel/purge/steal!
+  * [Remedy](http://www.wowhead.com/spell=77912): someone must dispel/purge/steal!
   * [Release Abberations](http://www.wowhead.com/spell=77569): tank round em up until Green vial phase
     * all adds must be kept away from boss
   * Phase 1
@@ -55,7 +55,7 @@ title: Blackwing Descent
       * [Consuming Flame](http://www.wowhead.com/spell=77786): DoT, if you get it **RUN OUT**
     * Blue vial (ranged spread out!):
       * Mele: [Biting Chill](http://www.wowhead.com/spell=77760): 6yd aoe damage debuff **RUN OUT**
-      * Ranged should stand > 6yds apart: [Flash Freeze](http://www.wowhead.com/spell=92980): tombs player and all nearby, break them out
+      * Ranged should stand > 6yds apart: [Flash Freeze](http://www.wowhead.com/spell=77699): tombs player and all nearby, break them out
     * Green vial (adds!):
       * Every 3rd vial is green
       * [Debilitating slime](http://www.wowhead.com/spell=92910): increases everyone's (incl. boss and adds) dmg taken
