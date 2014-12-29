@@ -1,15 +1,10 @@
 ---
----
-{% include header.md %}
-# Welcome to ithilyn.github.io.
+title: Welcome
 ---
 
 This text **should be bold** and *this italic*.
 
 * Use [Life Cocoon][], [Renewing Mist][], then [Thunder Focus Tea][] plus [Surging Mist][] during heal phase.
-
-
-{% include footer.md %}
 
 [Life Cocoon]: http://wod.wowhead.com/spell=165128
 [Renewing Mist]: http://wod.wowhead.com/spell=119611
