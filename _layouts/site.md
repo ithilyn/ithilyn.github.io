@@ -51,7 +51,7 @@
 </div>
 
     <div class="container">
-# {{page.title}}
+        <h1>{{page.title}}</h1>
 
         <!-- BEGIN CONTENT -->
         {{content}}
