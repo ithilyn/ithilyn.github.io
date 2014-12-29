@@ -58,54 +58,56 @@ title: Bastion of Twilight
   * [Disperse](http://www.wowhead.com/spell=83087) & [Lightning Blast](http://www.wowhead.com/spell=93988): teleports away and blasts the tank, someone try to get to him to interrupt
   * [Call Winds](http://www.wowhead.com/spell=83491): everyone tap the tornado to get [Swirling Winds](http://www.wowhead.com/spell=83500) debuff, needed to avoid Terrestra's ultimate ([Quake](http://www.wowhead.com/spell=83565))
   * [Thundershock](http://www.wowhead.com/spell=92470): to survive, need [Grounded](http://www.wowhead.com/spell=83581) debuff from Terrastra's [Gravity Well](http://www.wowhead.com/spell=79244)s
+
 ### Terrastra (earth)
   * mele dps
-  * [[http://www.wowhead.com/spell=92534|Eruption]]: avoid these rock spikes
-  * [[http://www.wowhead.com/spell=92542|Harden Skin]]: shield, interrupt cast (1sec) or burn through
-  * [[http://www.wowhead.com/spell=79244|Gravity Well]]: stationary, everyone tap the well to get [[http://www.wowhead.com/spell=83581|Grounded]] debuff, needed to survive Arion's ultimate ([[http://www.wowhead.com/spell=92470|Thundershock]])
-  * [[http://www.wowhead.com/spell=83565|Quake]]: to survive, need [[http://www.wowhead.com/spell=83500|Swirling Winds]] debuff from Arion's [[http://www.wowhead.com/spell=83491|Call Winds]]
+  * [Eruption](http://www.wowhead.com/spell=92534): avoid these rock spikes
+  * [Harden Skin](http://www.wowhead.com/spell=92542): shield, interrupt cast (1sec) or burn through
+  * [Gravity Well](http://www.wowhead.com/spell=79244): stationary, everyone tap the well to get [Grounded](http://www.wowhead.com/spell=83581) debuff, needed to survive Arion's ultimate ([Thundershock](http://www.wowhead.com/spell=92470))
+  * [Quake](http://www.wowhead.com/spell=83565): to survive, need [Swirling Winds](http://www.wowhead.com/spell=83500) debuff from Arion's [Call Winds](http://www.wowhead.com/spell=83491)
 
-=== Elementium Monstrosity ===
-  * [[http://www.wowhead.com/spell=84918|Cryogenic Aura]]: patches of ice under him, must get him out
-  * [[http://www.wowhead.com/spell=84913|Lava Seed]]: avoid these flare-like valls around the room
-  * [[http://www.wowhead.com/spell=92486|Gravity Crush]]: traps people, doing 96% of their health, plus fall damage, **must heal**
-  * [[http://www.wowhead.com/spell=84529|Electric Instability]]: chain lightning-like spell, gets worse over time, soft enrage timer
+### Elementium Monstrosity
+  * [Cryogenic Aura](http://www.wowhead.com/spell=84918): patches of ice under him, must get him out
+  * [Lava Seed](http://www.wowhead.com/spell=84913): avoid these flare-like valls around the room
+  * [Gravity Crush](http://www.wowhead.com/spell=92486): traps people, doing 96% of their health, plus fall damage, **must heal**
+  * [Electric Instability](http://www.wowhead.com/spell=84529): chain lightning-like spell, gets worse over time, soft enrage timer
 
-=== Links ===
+### Links
   * http://www.wowhead.com/npc=43735
   * http://forthebubbles.wordpress.com/2011/03/08/bot-ascendant-council/
-==== Cho'gall ====
-  * [[http://www.wowhead.com/spell=93189|Corrupted Blood]]
-    * 25: [[http://www.wowhead.com/spell=81836|Accelerated]]: dispellable
-    * 50: [[http://www.wowhead.com/spell=93202|Sickness]]: 5yd cone vomit, face away
-    * 75: [[http://www.wowhead.com/spell=82125|Malformation]]: tentacle shoots shadow bolts
-    * 100: [[http://www.wowhead.com/spell=82170|Absolute]]: unhealable, 100% more damage, instant cast spells
+
+## Cho'gall
+  * [Corrupted Blood](http://www.wowhead.com/spell=93189)
+    * 25: [Accelerated](http://www.wowhead.com/spell=81836): dispellable
+    * 50: [Sickness](http://www.wowhead.com/spell=93202): 5yd cone vomit, face away
+    * 75: [Malformation](http://www.wowhead.com/spell=82125): tentacle shoots shadow bolts
+    * 100: [Absolute](http://www.wowhead.com/spell=82170): unhealable, 100% more damage, instant cast spells
   * Phase 1
-    * [[http://www.wowhead.com/spell=93204|Conversion]] (mind control)
-      * Worshipping: [[http://www.wowhead.com/spell=93206|Twisted Devotion]] every 3sec, 10% increased dmg per stack, all 3 must be interrupted
-    * [[http://www.wowhead.com/spell=86027|Fury of Cho'gall]]: tank swap mech
-    * [[http://www.wowhead.com/spell=87579|Flame's Orders]] - tank!
+    * [Conversion](http://www.wowhead.com/spell=93204) (mind control)
+      * Worshipping: [Twisted Devotion](http://www.wowhead.com/spell=93206) every 3sec, 10% increased dmg per stack, all 3 must be interrupted
+    * [Fury of Cho'gall](http://www.wowhead.com/spell=86027): tank swap mech
+    * [Flame's Orders](http://www.wowhead.com/spell=87579) - tank!
       * mele swings gain 20k fire damage, patches of fire around the room, get out
-    * [[http://www.wowhead.com/spell=81556|Shadow's Orders]] - raid!
+    * [Shadow's Orders](http://www.wowhead.com/spell=81556) - raid!
       * mele swings do raid damage
       * Pulsing Shadows - use Raid cooldowns!
-    * Summon [[http://www.wowhead.com/npc=43622|Corrupting Adherent]]s (adds)
+    * Summon [Corrupting Adherent|http://www.wowhead.com/npc=43622)s (adds)
       * offtank should grab and put next to boss, at 15%, drag to back of room away from raid, leap of faith the tank back, don't be near when killed
-      * [[http://www.wowhead.com/spell=93180|Corrupting Crash]], like Shadow crash
-      * [[http://www.wowhead.com/spell=81713|Depravity]]: 20k raid dmg, corruption, must be interrupted 1.5sec cast
+      * [Corrupting Crash](http://www.wowhead.com/spell=93180), like Shadow crash
+      * [Depravity](http://www.wowhead.com/spell=81713): 20k raid dmg, corruption, must be interrupted 1.5sec cast
       * Sprayed Corrupted: cone, applies Corruption
-    * [[http://www.wowhead.com/spell=82299|Fester Blood]]: 30sec after add was spawned
+    * [Fester Blood](http://www.wowhead.com/spell=82299): 30sec after add was spawned
       * Festering Blood, massive raid damage
-      * 5 [[http://www.wowhead.com/npc=43707|Blood of the Old God]] adds, must be killed before killing raid, snarable
+      * 5 [Blood of the Old God](http://www.wowhead.com/npc=43707) adds, must be killed before killing raid, snarable
   * Phase 2 (25% health)
     * Fury of Cho'gall: tank swap
-    * [[http://www.wowhead.com/?spell=94144|Corruption of the Old God]]: 5k/sec shadow raid dmg
-    * [[http://www.wowhead.com/spell=93161|Darkened Creations]]: tentacles, spawn randomly, must be killed ASAP
-      * [[http://www.wowhead.com/spell=93133|Debilitating Beam]], reduces healing by 75%, shadow damage, corruption
+    * [Corruption of the Old God](http://www.wowhead.com/?spell=94144): 5k/sec shadow raid dmg
+    * [Darkened Creations](http://www.wowhead.com/spell=93161): tentacles, spawn randomly, must be killed ASAP
+      * [Debilitating Beam](http://www.wowhead.com/spell=93133), reduces healing by 75%, shadow damage, corruption
       * split raid up into groups to deal with Creations
   
 
 
-==== Links ====
+## Links
   * http://jinxedthought.blogspot.com/2011/01/ascendant-council-10-man.html
   * http://porkchopsnholysauce.wordpress.com/2011/02/03/cataclysm-is-too-easy/
