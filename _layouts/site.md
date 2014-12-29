@@ -58,6 +58,8 @@
         <!-- END CONTENT -->
     </div>
 
+{{ page.last_modified_at | date: '%Y:%m:%d %H:%M:%S' }}
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
