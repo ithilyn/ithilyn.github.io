@@ -51,8 +51,8 @@ title: Blackwing Descent
     * all adds must be kept away from boss
   * Phase 1
     * Red vial (group up!): 
-      * [Scorching Blast](http://www.wowhead.com/spell=92970): AoE frontal cone, STACK UP, damage divided by players
-      * [Consuming Flame](http://www.wowhead.com/spell=92973): DoT, if you get it **RUN OUT**
+      * [Scorching Blast](http://www.wowhead.com/spell=77679): AoE frontal cone, STACK UP, damage divided by players
+      * [Consuming Flame](http://www.wowhead.com/spell=77786): DoT, if you get it **RUN OUT**
     * Blue vial (ranged spread out!):
       * Mele: [Biting Chill](http://www.wowhead.com/spell=77760): 6yd aoe damage debuff **RUN OUT**
       * Ranged should stand > 6yds apart: [Flash Freeze](http://www.wowhead.com/spell=92980): tombs player and all nearby, break them out
@@ -62,7 +62,7 @@ title: Blackwing Descent
   * Phase 2 (25%?)
     * Prime Subjects are released: tank pick up quickly, they will [Fixate](http://www.wowhead.com/spell=78617) on their current target after a few seconds. If Fixated, move away from the boss
     * face him towards wall, slowly kite, ensure no one is behind the tank
-    * [Acid Nova](http://www.wowhead.com/spell=93013): small DoT which can be healed through
+    * [Acid Nova](http://www.wowhead.com/spell=78225): small DoT which can be healed through
     * [Absolute Zero](http://www.wowhead.com/spell=78223): spawns exploding orbs you need to move away from
 
 ## Atramedes
@@ -70,8 +70,8 @@ title: Blackwing Descent
   * [Devastation](http://www.wowhead.com/spell=78868): instadeath because player has reached 100 sound and become [Noisy!](http://www.wowhead.com/spell=78897)
   * Ground phase:
     * [Searing Flame](http://www.wowhead.com/spell=77840): horrible AoE, assign someone to interrupt by hitting a gong
-    * [Modulation](http://www.wowhead.com/spell=92451): unavoidable AoE, 40k damage and applies 7 sound
-    * [Sonar Pulse](http://www.wowhead.com/spell=92411): discs you must dodge, or gain 7 sound
+    * [Modulation](http://www.wowhead.com/spell=77612): unavoidable AoE, 40k damage and applies 7 sound
+    * [Sonar Pulse](http://www.wowhead.com/spell=77672): discs you must dodge, or gain 7 sound
     * [Sonic Breath](http://www.wowhead.com/spell=78100): flame breath, cast on player with highest sound, kite to the RIGHT
   * Air phase:
     * **YOU MUST BE RUNNING** as the phase begins to increase chance to get away from Flame Breath
@@ -83,10 +83,10 @@ title: Blackwing Descent
   * Air phase: kite Roaring Flame, call out for a gong when it gets close
 
 ### Links
-  * http://www.hazmacewillraid.com/wp-content/uploads/2011/02/Atramedes-and-the-Sonic-Breath-of-Doom.swf
-  * http://www.crusaderscoliseum.com/cataclysm-boss-tactics/blackwing-decent-tactics/atramedes-tactics
-  * http://porkchopsnholysauce.wordpress.com/2011/03/02/the-big-blind/
-  * http://www.tankspot.com/showthread.php?72723-Atramedes
+  * [hazmacewillraid](http://www.hazmacewillraid.com/wp-content/uploads/2011/02/Atramedes-and-the-Sonic-Breath-of-Doom.swf)
+  * [crusaderscoliseum](http://www.crusaderscoliseum.com/cataclysm-boss-tactics/blackwing-decent-tactics/atramedes-tactics)
+  * [porkchopsnholysauce](http://porkchopsnholysauce.wordpress.com/2011/03/02/the-big-blind/)
+  * [tankspot](http://www.tankspot.com/showthread.php?72723-Atramedes)
 
 ## Chimaeron
   * Vuhdo setup: Panels -> Text, Show HP, Remaining
