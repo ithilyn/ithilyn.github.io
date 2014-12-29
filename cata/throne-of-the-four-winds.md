@@ -41,7 +41,7 @@ title: Throne of the Four Winds
   * [wowpedia](http://www.wowpedia.org/Conclave_of_Wind)
   * [youtube](http://www.youtube.com/watch?v=reidCXz7Cmc)
 
-==== Al'Akir ====
+## Al'Akir
   * [icy-veins](http://www.icy-veins.com/al-akir-healer-strategy)
   * Phase 1 (100-80%)
     * [Lightning Strike](http://www.wowhead.com/spell=89668): stand in groups of 2s on the clovers. Spread healers equally in 1, 3, 5 spots to be able to heal everyone
