@@ -111,5 +111,5 @@ title: Bastion of Twilight
 
 
 ## Links
-  * http://jinxedthought.blogspot.com/2011/01/ascendant-council-10-man.html
-  * http://porkchopsnholysauce.wordpress.com/2011/02/03/cataclysm-is-too-easy/
+  * [jinxedthought](http://jinxedthought.blogspot.com/2011/01/ascendant-council-10-man.html)
+  * [porkchopsnholysauce](http://porkchopsnholysauce.wordpress.com/2011/02/03/cataclysm-is-too-easy/)
