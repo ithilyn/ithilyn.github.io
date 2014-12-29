@@ -79,7 +79,7 @@ title: Bastion of Twilight
   * [forthebubbles](http://forthebubbles.wordpress.com/2011/03/08/bot-ascendant-council/)
 
 ## Cho'gall
-  * [Corrupted Blood](http://www.wowhead.com/spell=93189)
+  * [Corruption of the Old God](http://www.wowhead.com/spell=82361)
     * 25: [Accelerated](http://www.wowhead.com/spell=81836): dispellable
     * 50: [Sickness](http://www.wowhead.com/spell=93202): 5yd cone vomit, face away
     * 75: [Malformation](http://www.wowhead.com/spell=82125): tentacle shoots shadow bolts
