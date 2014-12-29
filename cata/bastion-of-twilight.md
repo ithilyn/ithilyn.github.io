@@ -43,9 +43,9 @@ title: Bastion of Twilight
 ### Feludius (water)
   * ranged dps
   * [Hydro Lance](http://www.wowhead.com/spell=82752): must be interrupted
-  * [Water Bomb](http://www.wowhead.com/spell=82699): randomly around the room, if hit, you get [[http://www.wowhead.com/spell=82762|Waterlogged]] and must remove it ASAP by walking through the fire trail left by Ignacius
+  * [Water Bomb](http://www.wowhead.com/spell=82699): randomly around the room, if hit, you get [Waterlogged](http://www.wowhead.com/spell=82762) and must remove it ASAP by walking through the fire trail left by Ignacius
   * [Heart of Ice](http://www.wowhead.com/spell=82665): someone occasionally targeted: run to **mele** pile (attacking Ignacius), giving them a damage boost, then a designated healer should dispel
-  * [Glaciate](http://www.wowhead.com/spell=92508): RUN AWAY! Get rid of Waterlogged!
+  * [Glaciate](http://www.wowhead.com/spell=82746): RUN AWAY! Get rid of Waterlogged!
 
 ### Ignacius (fire)
   * mele dps
