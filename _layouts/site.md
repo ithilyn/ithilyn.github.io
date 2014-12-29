@@ -9,7 +9,7 @@
         <meta name="description" content="Ithilyn's Wiki">
         <meta name="author" content="Ithilyn">
 
-        <title>Ithilyn's Wiki</title>
+        <title>{{page.title}} -- Ithilyn's Wiki</title>
         
         <!-- Latest compiled and minified CSS -->
         <!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"> -->
