@@ -31,7 +31,7 @@ title: Ithilyn's Wiki
   * [Mogu'shan Palace \[MP\]](mists/mogushan-palace)
   * [Shado-Pan Monastery \[SPM\]](mists/shado-pan-monastery)
   * [Stormstout Brewery \[SB\]](mists/stormstout-brewery)
-  * [Temple of the Jade Serpent \[TJS\]](mists/temple-of-the=jade-serpent)
+  * [Temple of the Jade Serpent \[TJS\]](mists/temple-of-the-jade-serpent)
 
 ## Mists info
   * [Kerfax's Guide on MMO Champion](http://www.mmo-champion.com/threads/1187382-MoP-Holy-Paladin-Guide-5-0)
