@@ -1,4 +1,6 @@
-# Scholomance
+---
+title: Scholomance
+---
 
 ## Instructor Chillheart
 * P1: Chillheart
