@@ -1,5 +1,4 @@
 ---
-layout: site
 title: Grimrail Depot
 ---
 ## Rocketspark and Borka
