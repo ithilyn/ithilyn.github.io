@@ -45,29 +45,29 @@ title: Throne of the Four Winds
   * [icy-veins](http://www.icy-veins.com/al-akir-healer-strategy)
   * Phase 1 (100-80%)
     * [Lightning Strike](http://www.wowhead.com/spell=89668): stand in groups of 2s on the clovers. Spread healers equally in 1, 3, 5 spots to be able to heal everyone
-    * [[http://www.wowhead.com/spell=87856|Squall Line]]s: 5sec to fully materialize. When tornados circle around the platform, find the gap between them and go through it to avoid getting grabbed by them. move forward/back, not left/right to dodge
-    * [[http://www.wowhead.com/spell=93260|Ice Storm]]: avoid ice patch
-    * [[http://www.wowhead.com/spell=87770|Wind Burst]]: ~ every 25sec. move closer to boss, deals dmg knocks everyone back.
-    * [[http://www.wowhead.com/spell=87873|Static Shock]]: interrupts casters in mele, stay out
-    * [[http://www.wowhead.com/spell=88427|Electrocute]]: hits tank if out of mele
+    * [Squall Line](http://www.wowhead.com/spell=87856)s: 5sec to fully materialize. When tornados circle around the platform, find the gap between them and go through it to avoid getting grabbed by them. move forward/back, not left/right to dodge
+    * [Ice Storm](http://www.wowhead.com/spell=93260): avoid ice patch
+    * [Wind Burst](http://www.wowhead.com/spell=87770): ~ every 25sec. move closer to boss, deals dmg knocks everyone back.
+    * [Static Shock](http://www.wowhead.com/spell=87873): interrupts casters in mele, stay out
+    * [Electrocute](http://www.wowhead.com/spell=88427): hits tank if out of mele
     * **Strat**:
       * Move in for Wind Burst and position yourself accordingly for Squall Line while maintaining your designated location so that Lightning Strike does not do a lot of damage.
       * Heal raid members in your own group, as well as those groups assigned to you (on your left and right).
   * Phase 2 (80-25%)
-    * [[http://www.wowhead.com/spell=87856|Squall Line]]s, [[http://www.wowhead.com/spell=87873|Static Shock]], and [[http://www.wowhead.com/spell=88427|Electrocute]] continue
-    * [[http://www.wowhead.com/spell=93281|Acid Rain]]: stacking DoT, gets worse
-    * Stormling adds every 25sec. Applies [[http://www.wowhead.com/spell=87904|Feedback]] to Al'Akir.
+    * [Squall Line](http://www.wowhead.com/spell=87856)s, [Static Shock](http://www.wowhead.com/spell=87873), and [Electrocute](http://www.wowhead.com/spell=88427) continue
+    * [Acid Rain](http://www.wowhead.com/spell=88301): stacking DoT, gets worse
+    * Stormling adds every 25sec. Applies [Feedback](http://www.wowhead.com/spell=87904) to Al'Akir.
     * **Strat**:
       * 2 groups: ranged/healers, mele/tank
       * in terms of movement, your only concern is positioning yourself correctly for the gap in the Squall Line. 
       * Other than this, you must simply heal through the increasing raid damage dealt by Acid Rain and the damage the tank will be receiving from both Al'Akir's melee attacks and the damage done by Stormlings
   * Phase 3 (25-0%)
-    * [[http://www.wowhead.com/spell=89107|Eye of the Storm]]: ground fall out, you fly
-    * [[http://www.wowhead.com/spell=87770|Wind Burst]] is back
-    * [[http://www.wowhead.com/spell=93298|Lightning Clouds]]: on randomly targeted player. move up/down
-    * [[http://www.wowhead.com/spell=89668|Lightning Rod]]: on one player, damages all within 20yds. Move away (horizontally) if you get!
-    * [[http://www.wowhead.com/spell=93291|Lightning]] on random players is unavoidable
-    * don't get knocked out too far: [[http://www.wowhead.com/spell=89104|Relentless Storm]]: damages you and traps you for 6sec
+    * [Eye of the Storm](http://www.wowhead.com/spell=89107): ground fall out, you fly
+    * [Wind Burst](http://www.wowhead.com/spell=87770) is back
+    * [Lightning Clouds](http://www.wowhead.com/spell=19513): on randomly targeted player. move up/down
+    * [Lightning Rod](http://www.wowhead.com/spell=89668): on one player, damages all within 20yds. Move away (horizontally) if you get!
+    * [Lightning](http://www.wowhead.com/spell=89641) on random players is unavoidable
+    * don't get knocked out too far: [Relentless Storm](http://www.wowhead.com/spell=89104): damages you and traps you for 6sec
     * **Strat**:
       * Start by having EVERYONE move UP, towards the altitude of the bosses head. 
       * Set a raid mark on someone to keep everyone at the same level.
