@@ -18,15 +18,15 @@ title: Bastion of Twilight
 ## Valiona and Theralion
   * Phase 1 (Valiona on ground)
     * Valiona
-      * [Blackout](http://www.wowhead.com/spell=92877: stack up at tail, someone Cleanse the debuff when ready
+      * [Blackout](http://www.wowhead.com/spell=92877): stack up at tail, someone Cleanse the debuff when ready
       * [Devouring Flames](http://www.wowhead.com/spell=90950): breath damage, keep an eye what direction she's facing, step to her back
     * Theralion
-      * [Twilight Blast])http://www.wowhead.com/spell=95417): keep spread out >= 6yds
+      * [Twilight Blast](http://www.wowhead.com/spell=95417): keep spread out >= 6yds
       * [Dazzling Destruction](http://www.wowhead.com/spell=86408): pink swirly crap on ground, get out
   * Phase 2 (Theralion on ground)
     * Theralion
       * stand with mele/tank, ranged should spread out
-      * [Engulfing Magic](http://www.wowhead.com/spell=95639): any damage or healing you do will damage those around you. Either:
+      * [Engulfing Magic](http://www.wowhead.com/spell=86622): any damage or healing you do will damage those around you. Either:
         * stand still and do nothing
         * run out away from everyone, then resume heals/dps
       * [Fabulous Flames](http://www.wowhead.com/spell=86505) (void zones): targets a ranged player (must be enough ranged)
@@ -34,8 +34,8 @@ title: Bastion of Twilight
       * [Twilight Meteorite](http://www.wowhead.com/spell=86013): targets random ranged player, marked with a V chevron, must stack to split damage
       * [Deep Breath](http://www.wowhead.com/spell=86059) down the room: "move to side" or "middle"
   * Links
-    * http://jinxedthought.blogspot.com/2010/12/valiona-theralion-10-man.html
-    * http://nonelitistraiding.blogspot.com/2011/03/hints-for-valonia-and-theralion-10.html
+    * [](http://jinxedthought.blogspot.com/2010/12/valiona-theralion-10-man.html)
+    * [])http://nonelitistraiding.blogspot.com/2011/03/hints-for-valonia-and-theralion-10.html)
 
 ## Ascendant Council
   * Each phase ends when one of the ascendants reaches 25% health. EM has the combined health of all 4, so you want to equally bring them down to 25%
