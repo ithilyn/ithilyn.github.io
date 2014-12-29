@@ -34,17 +34,19 @@ title: Bastion of Twilight
       * [Twilight Meteorite](http://www.wowhead.com/spell=86013): targets random ranged player, marked with a V chevron, must stack to split damage
       * [Deep Breath](http://www.wowhead.com/spell=86059) down the room: "move to side" or "middle"
   * Links
-    * [](http://jinxedthought.blogspot.com/2010/12/valiona-theralion-10-man.html)
-    * [])http://nonelitistraiding.blogspot.com/2011/03/hints-for-valonia-and-theralion-10.html)
+    * [jinxedthought](http://jinxedthought.blogspot.com/2010/12/valiona-theralion-10-man.html)
+    * [nonelitistraiding](http://nonelitistraiding.blogspot.com/2011/03/hints-for-valonia-and-theralion-10.html)
 
 ## Ascendant Council
   * Each phase ends when one of the ascendants reaches 25% health. EM has the combined health of all 4, so you want to equally bring them down to 25%
+
 ### Feludius (water)
   * ranged dps
   * [Hydro Lance](http://www.wowhead.com/spell=82752): must be interrupted
   * [Water Bomb](http://www.wowhead.com/spell=82699): randomly around the room, if hit, you get [[http://www.wowhead.com/spell=82762|Waterlogged]] and must remove it ASAP by walking through the fire trail left by Ignacius
   * [Heart of Ice](http://www.wowhead.com/spell=82665): someone occasionally targeted: run to **mele** pile (attacking Ignacius), giving them a damage boost, then a designated healer should dispel
   * [Glaciate](http://www.wowhead.com/spell=92508): RUN AWAY! Get rid of Waterlogged!
+
 ### Ignacius (fire)
   * mele dps
   * [Flame Torrent](http://www.wowhead.com/spell=92517): channeled, tank use CDs
