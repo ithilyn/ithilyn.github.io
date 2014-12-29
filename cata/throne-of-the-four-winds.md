@@ -9,7 +9,7 @@ title: Throne of the Four Winds
   * The tank and tank healers for Anshal and Nezir will swap positions every other recharging phase to deal with the stacking [Wind Chill](http://www.wowhead.com/spell=84645) debuff.
   * **Anshal** - Nature (Green)
     * requires tank, extra dps, slightly more healers
-    * dps must split up and burn down Ravenous Creepers so [Toxic Spores](http://www.wowhead.com/?spell=93121) don't stack too much on everyone
+    * dps must split up and burn down Ravenous Creepers so [Toxic Spores](http://www.wowhead.com/spell=86282) don't stack too much on everyone
     * Avoid [Soothing Winds](http://www.wowhead.com/?spell=86206) green circle on the ground, silences players, heals him and Creepers
   * **Rohash** - Wind (Red)
     * requires no tank, fewer dps (ranged preferred), fewer healers
