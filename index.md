@@ -14,23 +14,24 @@ title: Ithilyn's Wiki
   * [Upper Blackrock Spire][warlords/upper-blackrock-spire]
 
 ----
+
 ## Mists Raids
   * [Siege of Orgrimmar \[SoO\]](mists/siege-of-orgrimmar)
   * [Throne of Thunder \[TT\]](mists/throne-of-thunder)
-  * [Terrace of Endless Spring]] [TES][[mists:Terrace of Endless Spring]] [TES]
+  * [Terrace of Endless Spring \[TES\]](mists/terrace-of-endless-spring)
   * [Heart of Fear \[HoF\]](mists/heart-of-fear)
   * [Mogu'shan Vaults \[MV\]](mists/mogushan-vaults)
 
-=== Mists Dungeons ===
-  * [[mists:Scholomance]] [Scholo]
-  * [[mists:Scarlet Halls]] [SH]
-  * [[mists:Scarlet Monastery]] [SM]
-  * [[mists:Gate of the Setting Sun]] [GSS]
-  * [[mists:Siege of Niuzao Temple]] [SNT]
-  * [[mists:Mogu'shan Palace]] [MP]
-  * [[mists:Shado-Pan Monastery]] [SPM]
-  * [[mists:Stormstout Brewery]] [SB]
-  * [[mists:Temple of the Jade Serpent]] [TJS]
+## Mists Dungeons
+  * [Scholomance \[Scholo\]](mists/scholomance)
+  * [Scarlet Halls \[SH\]](mists/scarlet-halls)
+  * [Scarlet Monastery \[SM\]](mists/scarlet-monastery)
+  * [Gate of the Setting Sun \[GSS\]](mists/gate-of-the-setting-sun)
+  * [Siege of Niuzao Temple \[SNT\]](mists/siege-of-niuzao-temple)
+  * [Mogu'shan Palace \[MP\]](mists/mogushan-palace)
+  * [Shado-Pan Monastery \[SPM\]](mists/shado-pan-monastery)
+  * [Stormstout Brewery \[SB\]](mists/stormstout-brewery)
+  * [Temple of the Jade Serpent \[TJS\]](mists/temple-of-the=jade-serpent)
 
 === Mists info ===
   * [[http://www.mmo-champion.com/threads/1187382-MoP-Holy-Paladin-Guide-5-0|Kerfax's Guide on MMO Champion]]
