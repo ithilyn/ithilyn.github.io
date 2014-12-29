@@ -59,24 +59,24 @@ title: Bastion of Twilight
   * [Lightning Rod](http://www.wowhead.com/spell=83099): on random player. **RUN AWAY!!** chain lightning with long reach
   * [Disperse](http://www.wowhead.com/spell=83087) & [Lightning Blast](http://www.wowhead.com/spell=93988): teleports away and blasts the tank, someone try to get to him to interrupt
   * [Call Winds](http://www.wowhead.com/spell=83491): everyone tap the tornado to get [Swirling Winds](http://www.wowhead.com/spell=83500) debuff, needed to avoid Terrestra's ultimate ([Quake](http://www.wowhead.com/spell=83565))
-  * [Thundershock](http://www.wowhead.com/spell=92470): to survive, need [Grounded](http://www.wowhead.com/spell=83581) debuff from Terrastra's [Gravity Well](http://www.wowhead.com/spell=79244)s
+  * [Thundershock](http://www.wowhead.com/spell=83067): to survive, need [Grounded](http://www.wowhead.com/spell=83581) debuff from Terrastra's [Gravity Well](http://www.wowhead.com/spell=79244)s
 
 ### Terrastra (earth)
   * mele dps
-  * [Eruption](http://www.wowhead.com/spell=92534): avoid these rock spikes
-  * [Harden Skin](http://www.wowhead.com/spell=92542): shield, interrupt cast (1sec) or burn through
+  * [Eruption](http://www.wowhead.com/spell=83675): avoid these rock spikes
+  * [Harden Skin](http://www.wowhead.com/spell=83718): shield, interrupt cast (1sec) or burn through
   * [Gravity Well](http://www.wowhead.com/spell=79244): stationary, everyone tap the well to get [Grounded](http://www.wowhead.com/spell=83581) debuff, needed to survive Arion's ultimate ([Thundershock](http://www.wowhead.com/spell=92470))
   * [Quake](http://www.wowhead.com/spell=83565): to survive, need [Swirling Winds](http://www.wowhead.com/spell=83500) debuff from Arion's [Call Winds](http://www.wowhead.com/spell=83491)
 
 ### Elementium Monstrosity
   * [Cryogenic Aura](http://www.wowhead.com/spell=84918): patches of ice under him, must get him out
   * [Lava Seed](http://www.wowhead.com/spell=84913): avoid these flare-like valls around the room
-  * [Gravity Crush](http://www.wowhead.com/spell=92486): traps people, doing 96% of their health, plus fall damage, **must heal**
+  * [Gravity Crush](http://www.wowhead.com/spell=84948): traps people, doing 96% of their health, plus fall damage, **must heal**
   * [Electric Instability](http://www.wowhead.com/spell=84529): chain lightning-like spell, gets worse over time, soft enrage timer
 
 ### Links
-  * http://www.wowhead.com/npc=43735
-  * http://forthebubbles.wordpress.com/2011/03/08/bot-ascendant-council/
+  * [wowhead](http://www.wowhead.com/npc=43735)
+  * [forthebubbles](http://forthebubbles.wordpress.com/2011/03/08/bot-ascendant-council/)
 
 ## Cho'gall
   * [Corrupted Blood](http://www.wowhead.com/spell=93189)
