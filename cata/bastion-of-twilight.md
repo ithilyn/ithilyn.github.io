@@ -49,10 +49,10 @@ title: Bastion of Twilight
 
 ### Ignacius (fire)
   * mele dps
-  * [Flame Torrent](http://www.wowhead.com/spell=92517): channeled, tank use CDs
-  * [Inferno Leap](http://www.wowhead.com/spell=92521) & [Inferno Rush](http://www.wowhead.com/spell=82859): leaps to target, then charges back to tank leaving a trail of fire
+  * [Flame Torrent](http://www.wowhead.com/spell=82777): channeled, tank use CDs
+  * [Inferno Leap](http://www.wowhead.com/spell=82857) & [Inferno Rush](http://www.wowhead.com/spell=82859): leaps to target, then charges back to tank leaving a trail of fire
   * [Burning Blood](http://www.wowhead.com/spell=82660): someone occasionally targeted: run to **ranged** pile (people attacking Feludius), giving them a damage boost, then a designated healer should dispel
-  * [Aegis of Flame](http://www.wowhead.com/spell=92512) & [Rising Flames](http://www.wowhead.com/spell=82636): all dps switch to burn down shield ASAP, then interrupt Rising Flames massive AoE ticking
+  * [Aegis of Flame](http://www.wowhead.com/spell=82631) & [Rising Flames](http://www.wowhead.com/spell=82636): all dps switch to burn down shield ASAP, then interrupt Rising Flames massive AoE ticking
 
 ### Arion (air)
   * ranged dps
