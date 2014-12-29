@@ -1,10 +1,5 @@
 ---
----
-{% include header.md %}
-# Warlords
+title: Warlords
 ---
 
 * [Grimrail Depot](grimrail_depot)
-
-{% include footer.md %}
-
