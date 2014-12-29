@@ -48,11 +48,13 @@ title: How to play Holy
 * [Holy Prism][]
 
 ## Glyphs
+
 ### Major
 * [Glyph of Hand of Sacrifice][]
 * [Glyph of Light of Dawn][] (5/10 mans)
 * [Glyph of Protector of the Innocent][] (?)
 * [Glyph of Beacon of Light][]
+
 ### Minor
 * [Glyph of the Righteous Retreat][]
 * ?
