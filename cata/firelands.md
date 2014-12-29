@@ -16,7 +16,7 @@ title: Firelands
     * [The Widow's Kiss](http://www.wowhead.com/spell=99506): cast on current target, reduces healing by 14-22% every 2 seconds for 20 sec. Target also inflicts increasing Fire damage to their surrounding allies within 10 yards
     * [Ember Flare](http://www.wowhead.com/spell=98934): 500-21500 Fire damage to players on the same level as Beth'tilac
 
-==== Shannox ====
+## Shannox
   * [Healbot's strat](http://healbot.net/shannox-10-man-healing-strategy-guide)
   * Quick strat ([Nethris](http://www.wowhead.com/npc=53691#comments)):
     * Dont run in to traps. Kite the dogs in to them. Immolation for damage, crystal for resetting dog buff stacks/resetting tank debuffs.
@@ -45,7 +45,7 @@ title: Firelands
     * Face Rage: "GO FOR THE THROAT!": leaps at random player, stunning/knocking them. More susceptible to crits. Stops when he receives a hit >= 30k 
     * Frenzied Devotion: unstoppable rage if he witnesses Shannox reach 30%
 
-==== Lord Rhyolith ====
+## Lord Rhyolith
   * [Matticus' strat](http://www.worldofmatticus.com/2011/07/07/healing-lord-rhyolith/)
   * Magma flows
   * stomps feet
