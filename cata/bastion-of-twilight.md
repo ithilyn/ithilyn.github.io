@@ -18,10 +18,10 @@ title: Bastion of Twilight
 ## Valiona and Theralion
   * Phase 1 (Valiona on ground)
     * Valiona
-      * [Blackout](http://www.wowhead.com/spell=92877): stack up at tail, someone Cleanse the debuff when ready
+      * [Blackout](http://www.wowhead.com/spell=86788): stack up at tail, someone Cleanse the debuff when ready
       * [Devouring Flames](http://www.wowhead.com/spell=90950): breath damage, keep an eye what direction she's facing, step to her back
     * Theralion
-      * [Twilight Blast](http://www.wowhead.com/spell=95417): keep spread out >= 6yds
+      * [Twilight Blast](http://www.wowhead.com/spell=86369): keep spread out >= 6yds
       * [Dazzling Destruction](http://www.wowhead.com/spell=86408): pink swirly crap on ground, get out
   * Phase 2 (Theralion on ground)
     * Theralion
