@@ -81,21 +81,21 @@ title: Bastion of Twilight
 ## Cho'gall
   * [Corruption of the Old God](http://www.wowhead.com/spell=82361)
     * 25: [Accelerated](http://www.wowhead.com/spell=81836): dispellable
-    * 50: [Sickness](http://www.wowhead.com/spell=93202): 5yd cone vomit, face away
+    * 50: [Sickness](http://www.wowhead.com/spell=81831): 5yd cone vomit, face away
     * 75: [Malformation](http://www.wowhead.com/spell=82125): tentacle shoots shadow bolts
     * 100: [Absolute](http://www.wowhead.com/spell=82170): unhealable, 100% more damage, instant cast spells
   * Phase 1
-    * [Conversion](http://www.wowhead.com/spell=93204) (mind control)
-      * Worshipping: [Twisted Devotion](http://www.wowhead.com/spell=93206) every 3sec, 10% increased dmg per stack, all 3 must be interrupted
+    * [Conversion](http://www.wowhead.com/spell=91303) (mind control)
+      * Worshipping: [Twisted Devotion](http://www.wowhead.com/spell=91331) every 3sec, 10% increased dmg per stack, all 3 must be interrupted
     * [Fury of Cho'gall](http://www.wowhead.com/spell=86027): tank swap mech
     * [Flame's Orders](http://www.wowhead.com/spell=87579) - tank!
       * mele swings gain 20k fire damage, patches of fire around the room, get out
     * [Shadow's Orders](http://www.wowhead.com/spell=81556) - raid!
       * mele swings do raid damage
       * Pulsing Shadows - use Raid cooldowns!
-    * Summon [Corrupting Adherent|http://www.wowhead.com/npc=43622)s (adds)
+    * Summon [Corrupting Adherent](http://www.wowhead.com/npc=43622)s (adds)
       * offtank should grab and put next to boss, at 15%, drag to back of room away from raid, leap of faith the tank back, don't be near when killed
-      * [Corrupting Crash](http://www.wowhead.com/spell=93180), like Shadow crash
+      * [Corrupting Crash](http://www.wowhead.com/spell=81689), like Shadow crash
       * [Depravity](http://www.wowhead.com/spell=81713): 20k raid dmg, corruption, must be interrupted 1.5sec cast
       * Sprayed Corrupted: cone, applies Corruption
     * [Fester Blood](http://www.wowhead.com/spell=82299): 30sec after add was spawned
@@ -103,9 +103,9 @@ title: Bastion of Twilight
       * 5 [Blood of the Old God](http://www.wowhead.com/npc=43707) adds, must be killed before killing raid, snarable
   * Phase 2 (25% health)
     * Fury of Cho'gall: tank swap
-    * [Corruption of the Old God](http://www.wowhead.com/?spell=94144): 5k/sec shadow raid dmg
-    * [Darkened Creations](http://www.wowhead.com/spell=93161): tentacles, spawn randomly, must be killed ASAP
-      * [Debilitating Beam](http://www.wowhead.com/spell=93133), reduces healing by 75%, shadow damage, corruption
+    * [Corruption of the Old God](http://www.wowhead.com/spell=82361): 5k/sec shadow raid dmg
+    * [Darkened Creations](http://www.wowhead.com/spell=82414): tentacles, spawn randomly, must be killed ASAP
+      * [Debilitating Beam](http://www.wowhead.com/spell=82411), reduces healing by 75%, shadow damage, corruption
       * split raid up into groups to deal with Creations
   
 
