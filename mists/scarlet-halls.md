@@ -1,4 +1,7 @@
-# Scarlet Halls
+---
+title: Scarlet Halls
+---
+
 * Pick up meat and throw on mobs with dogs, and the dogs will turn on them.
 * up to 3 players behind a single shield in the gauntlet
 
