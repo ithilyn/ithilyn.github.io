@@ -40,6 +40,8 @@
       <span class="icon-bar"></span>
     </button>
     <a class="navbar-brand" href="/">Ithilyn's Wiki</a>
+    | {{page.title}}
+    <a target="_blank" href="//github.com/ithilyn/ithilyn.github.io/edit/master/{{page.path}}">[Edit]</a>
   </div>
 
   <div class="navbar-collapse collapse navbar-responsive-collapse">
