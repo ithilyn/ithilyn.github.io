@@ -1,3 +1,7 @@
+---
+title: Prist Mouse Click Bindings
+---
+
 Spell | Binding
 --- | ---
 Heal | Left |
