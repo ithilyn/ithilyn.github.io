@@ -22,29 +22,29 @@ title: Throne of the Four Winds
     * healers move out of any [Ice Patch](http://www.wowhead.com/spell=86111)es, don't stand on pathways coming into the platform (so you don't cause Ice Patches to drop in the way of dps coming in for full energy phase)
     * damage will increase due to [Wind Chill](http://www.wowhead.com/spell=84645)
   * Full Energy phase
-    * Nezir: [[http://www.wowhead.com/?spell=86367|Sleet Storm]]
+    * Nezir: [Sleet Storm](http://www.wowhead.com/spell=84644)
       * dps burn, healers deal with raid damage
-    * Anshal: [[http://www.wowhead.com/?spell=93119|Zephyr]]
-    * Rohash: [[http://www.wowhead.com/?spell=86481|Hurricane]]
+    * Anshal: [Zephyr](http://www.wowhead.com/spell=84638)
+    * Rohash: [Hurricane](http://www.wowhead.com/spell=84643)
     * **be sure to switch as needed at around 80 energy--at 90 energy the bridges disappear**
     * Entire Rohash group except a single healer switches to Nezir
-      * healer staying at Rohash must live through [[http://www.wowhead.com/?spell=86481|Hurricane]] (use instants)
+      * healer staying at Rohash must live through [Hurricane](http://www.wowhead.com/spell=84643) (use instants)
     * Entire Anshal group switches to Nezir
-      * dps must have finished off any remaining Creepers, or [[http://www.wowhead.com/?spell=93119|Zephyr]] will heal them
+      * dps must have finished off any remaining Creepers, or [Zephyr](http://www.wowhead.com/spell=84638) will heal them
     * Nezir tank and tank healer switches to Anshal
     * once done, dps move back to assignments, tank and tank healers remain at swapped positions
-      * allows [[http://www.wowhead.com/?spell=93123|Wind Chill]] to fade from group that just had Nezir
+      * allows [Wind Chill](http://www.wowhead.com/spell=84645) to fade from group that just had Nezir
   * Nezir Burn phase
     * should be at 50%
     * save Bloodlust/big dps cooldowns for now
-    * must kill within a minute and before [[http://www.wowhead.com/?spell=93123|Wind Chill]] stacks too high
-  * http://www.wowpedia.org/Conclave_of_Wind
-  * http://www.youtube.com/watch?v=reidCXz7Cmc
+    * must kill within a minute and before [Wind Chill](http://www.wowhead.com/spell=84645) stacks too high
+  * [wowpedia](http://www.wowpedia.org/Conclave_of_Wind)
+  * [youtube](http://www.youtube.com/watch?v=reidCXz7Cmc)
 
 ==== Al'Akir ====
-  * http://www.icy-veins.com/al-akir-healer-strategy
+  * [icy-veins](http://www.icy-veins.com/al-akir-healer-strategy)
   * Phase 1 (100-80%)
-    * [[http://www.wowhead.com/spell=93257|Lightning Strike]]: stand in groups of 2s on the clovers. Spread healers equally in 1, 3, 5 spots to be able to heal everyone
+    * [Lightning Strike](http://www.wowhead.com/spell=89668): stand in groups of 2s on the clovers. Spread healers equally in 1, 3, 5 spots to be able to heal everyone
     * [[http://www.wowhead.com/spell=87856|Squall Line]]s: 5sec to fully materialize. When tornados circle around the platform, find the gap between them and go through it to avoid getting grabbed by them. move forward/back, not left/right to dodge
     * [[http://www.wowhead.com/spell=93260|Ice Storm]]: avoid ice patch
     * [[http://www.wowhead.com/spell=87770|Wind Burst]]: ~ every 25sec. move closer to boss, deals dmg knocks everyone back.
