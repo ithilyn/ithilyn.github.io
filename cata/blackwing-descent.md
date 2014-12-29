@@ -91,7 +91,7 @@ title: Blackwing Descent
 ## Chimaeron
   * Vuhdo setup: Panels -> Text, Show HP, Remaining
   * [Finkle's Mixture](http://www.wowhead.com/spell=82705) from Bile-O-Tron: if above 10k health, no attack will kill you
-  * [Caustic Slime](http://www.wowhead.com/spell=88916/caustic-slime)
+  * [Caustic Slime](http://www.wowhead.com/spell=82935)
     * **stay 6yds apart**
     * **you only have 4.5 seconds** before the next Caustic Slime, so use your fast, direct heals (FoL) if needed, or HL
   * [Break](http://www.wowhead.com/?spell=82881): debuff placed on current tank, +25% dmg/stack, -15% healing/stack, max 4 stacks
@@ -108,13 +108,13 @@ title: Blackwing Descent
   * At 21%: no more healing: [Mortality](http://www.wowhead.com/spell=82890)
 
 ### Links
-    * http://kurn.apotheosis-now.com/?p=1644
-    * http://jinxedthought.blogspot.com/2011/01/chimaeron-25-man.html
-    * http://www.youtube.com/watch?v=MPqz0RnL_YU&feature=player_embedded
-    * [[http://www.youtube.com/watch?v=eLa57ES3py8&feature=related|Tank Spot video guide]]
-    * http://www.mmo-champion.com/threads/816552-Chimaeron-Guide-(10-man)
-    * [[http://www.youtube.com/watch?v=H6LUNvG8B-o&feature=related|Set Sail for Fail v. Chimaeron]]
-    * http://www.cannotbetamed.com/2011/04/06/chimaeron-all-about-the-timing/
+* [kurn](http://kurn.apotheosis-now.com/?p=1644)
+* [jinxedthought](http://jinxedthought.blogspot.com/2011/01/chimaeron-25-man.html)
+* [youtube](http://www.youtube.com/watch?v=MPqz0RnL_YU&feature=player_embedded)
+* [Tank Spot video guide](http://www.youtube.com/watch?v=eLa57ES3py8&feature=related)
+* [mmo-champion](http://www.mmo-champion.com/threads/816552-Chimaeron-Guide-(10-man\))
+* [Set Sail for Fail v. Chimaeron](http://www.youtube.com/watch?v=H6LUNvG8B-o&feature=related)
+* [cannotbetamed](http://www.cannotbetamed.com/2011/04/06/chimaeron-all-about-the-timing/)
 
 ## Nefarian
   * `/focus Nef`
@@ -138,8 +138,8 @@ title: Blackwing Descent
     * Offtank kites skeletonadds, dodging Nef's Shadowblazes
     * watch out for fire!
   * Links
-    * http://jinxedthought.blogspot.com/2011/02/nefarian-10-man.html
-    * [[http://www.youtube.com/watch?v=cS9Ykg5Bz6M|LearntoRaid's Nefarian Strategy Guide (Normal)]]
+    * [jinxedthought](http://jinxedthought.blogspot.com/2011/02/nefarian-10-man.html)
+    * [LearntoRaid's Nefarian Strategy Guide (Normal)](http://www.youtube.com/watch?v=cS9Ykg5Bz6M)
 
 ## Links
-  * http://www.hazmacewillraid.com/2011/01/facerolling-212-blackwing-descent-section-1/
+  * [hazmacewillraid](http://www.hazmacewillraid.com/2011/01/facerolling-212-blackwing-descent-section-1/)
