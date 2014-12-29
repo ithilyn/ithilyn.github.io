@@ -44,7 +44,7 @@
 
   <div class="navbar-collapse collapse navbar-responsive-collapse">
     <ul class="nav navbar-nav navbar-right">
-      <li><a href="https://github.com/ithilyn/ithilyn.github.io/edit/master/_layouts/site.md">Edit</a></li>
+      <li><a href="https://github.com/ithilyn/ithilyn.github.io/edit/master/{{page.path}}">Edit</a></li>
     </ul>
   </div>
 
