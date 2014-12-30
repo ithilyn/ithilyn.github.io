@@ -1,9 +1,8 @@
 ---
-title: Zul’Gurub
+title: 
 ---
-
-  * http://wow.joystiq.com/2011/04/26/patch-4-1-guide-to-the-new-zulgurub/
-  * http://www.worldofmatticus.com/2011/04/26/zulgurub-and-zulaman-boss-strategy-notes/
+  * [http://wow.joystiq.com/2011/04/26/patch-4-1-guide-to-the-new-zulgurub/](http://wow.joystiq.com/2011/04/26/patch-4-1-guide-to-the-new-zulgurub/)
+  * [http://www.worldofmatticus.com/2011/04/26/zulgurub-and-zulaman-boss-strategy-notes/](http://www.worldofmatticus.com/2011/04/26/zulgurub-and-zulaman-boss-strategy-notes/)
 
 ### Venoxis trash
   * cauldron gives buff to reduce damage taken by 90%
@@ -55,7 +54,7 @@ title: Zul’Gurub
     * Shadows of Hakkar: 3-second cast attack that deals a ton of shadow damage to Jin'Do's immediate target and can chain to other players
     * **Stay within bubble until next bubble forms**, at which time exit bubble. jump into next bubble right as he casts Shadows of Hakkar again
   * Spirit World
-    * destroy chains by standing on then, then Gurubashi Spirits do [Body Slam](http://www.wowhead.com/spell=97198): randomly picks a player
+    * destroy chains by standing on then, then Gurubashi Spirits do [Body Slam]([http://www.wowhead.com/spell=97198):](http://www.wowhead.com/spell=97198):) randomly picks a player
     * Twisted Spirits: need to be killed before they overwhelm your group
     * Shadow Spike: shadow crash, white circle spawns around where they're going to hit
-  * http://us.battle.net/wow/en/forum/topic/2416119326
+  * [http://us.battle.net/wow/en/forum/topic/2416119326](http://us.battle.net/wow/en/forum/topic/2416119326)
