@@ -1,5 +1,5 @@
 ---
-title: 
+title: Zul'Gurub
 ---
   * [http://wow.joystiq.com/2011/04/26/patch-4-1-guide-to-the-new-zulgurub/](http://wow.joystiq.com/2011/04/26/patch-4-1-guide-to-the-new-zulgurub/)
   * [http://www.worldofmatticus.com/2011/04/26/zulgurub-and-zulaman-boss-strategy-notes/](http://www.worldofmatticus.com/2011/04/26/zulgurub-and-zulaman-boss-strategy-notes/)
