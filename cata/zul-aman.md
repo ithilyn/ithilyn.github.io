@@ -1,3 +1,7 @@
+---
+title: Zul’Aman
+---
+
 * http://wow.joystiq.com/2011/04/26/patch-4-1-guide-to-the-new-zulaman/
 * http://www.worldofmatticus.com/2011/04/26/zulgurub-and-zulaman-boss-strategy-notes/
 * [How To Heal a ZA Bear Run: The Holy Pally Way](http://wordofglory.net/?p=240)
