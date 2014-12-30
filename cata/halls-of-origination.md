@@ -4,7 +4,7 @@ title: Halls of Origination
   * "kill the big guy in any encounter first"
 
 #### Temple Guardian Anhuur
-  *[http://www.wowhead.com/npc=39425](http://www.wowhead.com/npc=39425)
+  * [http://www.wowhead.com/npc=39425](http://www.wowhead.com/npc=39425)
   * tank and spank on the platform where you find him
   * Health drain, cannot be interrupted
   * 2x [Shield of Light](http://www.wowhead.com/spell=74938) (goes immune to damage), and channels [Reverberating Hymn](http://www.wowhead.com/spell=75322) (damage to all in LoS)
@@ -12,14 +12,14 @@ title: Halls of Origination
     * then someone interrupt Reverberating Hymn
 
 #### Earthrager Ptah
-  *[http://www.wowhead.com/npc=39428](http://www.wowhead.com/npc=39428)
+  * [http://www.wowhead.com/npc=39428](http://www.wowhead.com/npc=39428)
   * tank and spank, stay out of bad, add phase
   * [Raging Smash](http://www.wowhead.com/spell=83650) (**Cleave**)
   * run out if Quicksand appears under you
   * at 50%, disappears, summons 2 elite adds
 
 #### Anraphet
-  *[http://www.wowhead.com/npc=39788](http://www.wowhead.com/npc=39788)
+  * [http://www.wowhead.com/npc=39788](http://www.wowhead.com/npc=39788)
   * fight 4 different elemental bosses to get to him: tank and spank, stay out of bad
     * **Flame Warden: don't stand in mele**
     * Water warden: break people out of bubbles
@@ -29,14 +29,14 @@ title: Halls of Origination
     * pop cooldowns before to survive
 
 #### Isiset
-  *[http://www.wowhead.com/npc=39587](http://www.wowhead.com/npc=39587)
+  * [http://www.wowhead.com/npc=39587](http://www.wowhead.com/npc=39587)
   * [Supernova](http://www.wowhead.com/spell=74136): just like Eadric the Pure, look away
   * at 60% and 30%, she splits into adds
     * whichever add you kill first, Isiset will lose its ability when she reappears
     * Astral Rain (usu. kill first) and Veil of the Sky (kill first if caster heavy)
 
 #### Ammunae
-  *[http://www.wowhead.com/npc=39731](http://www.wowhead.com/npc=39731)
+  * [http://www.wowhead.com/npc=39731](http://www.wowhead.com/npc=39731)
   * kill seed pods he spawns, they heal him and spawn [an add](http://www.wowhead.com/npc=38203) if left alone
   * randomly casts Consume Life Energy, raises player, strangles, suck it up and heal through
     * gives 10 energy each, 
@@ -63,5 +63,5 @@ title: Halls of Origination
   * [Blessing of the Sun](http://www.wowhead.com/spell=89879): increases dps
 
 #### Links
-  *[http://wow.joystiq.com/2010/12/07/cataclysm-dungeon-guide-halls-of-origination/](http://wow.joystiq.com/2010/12/07/cataclysm-dungeon-guide-halls-of-origination/)
+  * [http://wow.joystiq.com/2010/12/07/cataclysm-dungeon-guide-halls-of-origination/](http://wow.joystiq.com/2010/12/07/cataclysm-dungeon-guide-halls-of-origination/)
 
