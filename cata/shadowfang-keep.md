@@ -1,3 +1,7 @@
+---
+title: Shadowfang Keep
+---
+
 ### Baron Ashbury
   * drops everyone down to 1hp, heal tank first, get everyone back up 25-50%
   * 2 things to interrupt: Stay of Execution, Pain?
