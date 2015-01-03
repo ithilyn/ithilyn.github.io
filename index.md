@@ -4,7 +4,7 @@ title: Ithilyn's Wiki
 ---
 
 ## Warlords Raids
-* [The Walled City](warlods/the-walled-city)
+* [The Walled City](warlords/the-walled-city)
 
 ## Warlords Dungeons
   * [Bloodmaul Slag Mines](warlords/bloodmaul-slag-mines)
