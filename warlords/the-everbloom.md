@@ -2,7 +2,7 @@
 title: The Everbloom
 ---
 
-## Witherbardk
+## Witherbark
 * tank faces boss towards the water, others stand toward land
 * Unchecked Growth: kite it to the back of the area and away from the water. Once the vines catch you, move away to stop taking AOE damage
 * P2: Aqueous Globules move toward boss, 4 return him to P1
