@@ -56,8 +56,8 @@ title: Ithilyn's Wiki
 ## Cata Dungeons
   * [Zul'Aman](cata/zul-aman)
   * [Zul'Gurub](cata/zul-gurub)
-  * [H:Shadowfang Keep](cata/shadowfang-keep)
-  * [H:Deadmines](cata/deadmines)
+  * [Shadowfang Keep](cata/shadowfang-keep)
+  * [Deadmines](cata/deadmines)
   * [Halls of Origination](cata/halls-of-origination)
   * [Grim Batol](cata/grim-batol)
   * [Lost City of the Tol'vir](cata/lost-city-of-the-tol-vir)
