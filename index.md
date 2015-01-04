@@ -78,7 +78,7 @@ title: Ithilyn's Wiki
 
 ## Wrath Raids
   * [Ruby Sanctum](wrath/ruby-sanctum)
-  * [ICC notes](wrath/icc)
+  * [ICC notes](wrath/ice-crown-citadel)
   * [ToC notes](wrath/toc)
   * [Ulduar notes](wrath/ulduar)
   * [EoE notes](wrath/eoe)
