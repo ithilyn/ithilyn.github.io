@@ -4,12 +4,13 @@ title: The Everbloom
 
 ## Witherbark
 * tank faces boss towards the water, others stand toward land
-* Unchecked Growth: kite it to the back of the area and away from the water. Once the vines catch you, move away to stop taking AOE damage
+* Unchecked Growth: run to the hill (and away from the fight). Once the vines catch yp to you, return
 * P2: Aqueous Globules move toward boss, 4 return him to P1
     * can spawn add, dps immediately
 
 ## Ancient Protectors
 * kill order: Life Warden Gola, Earthshaper Telu, and Dulhu
+* damage is heaviest up front
 * tank Dulhu near the current target.
 * Dulhu: Noxious Eruption: AOE damage+knockback ability: get away immediately!
 * Gola: stun/interrupt to stop Revitalizing Waters
@@ -18,18 +19,17 @@ title: The Everbloom
     * Briarskin: prevents damage and add retaliation to protected target
 
 ## Xeri’tac (optional)
-* gauntlet
 * Venom-Crazed Pale Ones: spawned, heal boss: quickly kill and/or use CC
 
 ## Archmage Sol
 * fire, frost, and arcane phases: interrupt Parasitic Growth to trigger next phase
 
 ## Yalnu
-* unvine Kirin Tor helpers
 * tank in center, grab adds for dps to aoe
-* Colossal Blow: frontal cone, stuns
-* Genesis: spawns Swift Sproutlings: run around and stomp on them to stop them from growing
+* avoid Colossal Blow: frontal cone, stuns
+* Genesis: spawns Swift Sproutlings: run around and stomp on them, use Speed of Light
 * healer use cooldown when adds are on tank
+* unvine Kirin Tor helpers as needed
 
 ----
 
