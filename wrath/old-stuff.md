@@ -2,7 +2,7 @@
 title: Old Notes from Wrath
 ---
 #### Paladin
-  * [my remaining gear wish list](ICC gear)
+  * [my remaining gear wish list](icc-gear)
   * [Kurn’s Q&A #11](http://kurn.apotheosis-now.com/?p=786) (see Q2)
   * [Holy Paladin Icecrown Gear List](http://www.zabery.com/blog/2009/11/23/holy-paladin-icecrown-gear-list/)
   * [Haste gear](http://bossypally.wordpress.com/2010/07/25/easy-to-acquire-haste-gear/)
