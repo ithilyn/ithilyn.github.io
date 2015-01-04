@@ -24,6 +24,7 @@ title: Blood Queen Lana'thel
   * [http://nonelitistraiding.blogspot.com/2010/03/blood-queen-lanathel.html](http://nonelitistraiding.blogspot.com/2010/03/blood-queen-lanathel.html)
   * [http://www.ladiesofdestiny.net/blog/guild-leadership/icc-blood-queen-lanathel-strategy/](http://www.ladiesofdestiny.net/blog/guild-leadership/icc-blood-queen-lanathel-strategy/)
   * From [http://nonelitistraiding.blogspot.com/2010/03/healing-as-pally-crimson-hall.html](http://nonelitistraiding.blogspot.com/2010/03/healing-as-pally-crimson-hall.html)
+
     Phase 1
     Get in melee range and get some mana back on your time with auto hits.
     Bacon the blood mirrored off tank and heal the main tank
