@@ -109,6 +109,7 @@ title: King Arthas
 
 ### Phase 4
   * Don't release
+
 ### Links
   * [http://www.bosskillers.com/index.php?q=content/nellorae-10](http://www.bosskillers.com/index.php?q=content/nellorae-10)
   * [http://feralaggression.wordpress.com/2010/02/17/so-you-want-to-kill-the-lich-king/](http://feralaggression.wordpress.com/2010/02/17/so-you-want-to-kill-the-lich-king/)
