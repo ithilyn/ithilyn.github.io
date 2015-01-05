@@ -12,7 +12,7 @@ title: Auchindoun
 * [Mind Spike](http://www.wowhead.com/spell=154415): interrupt, deals heavy single target damage.
 * Adds: [Arbiter's Hammer][] and Magus's [Arcane Bomb][]: interrupt
 * [Soul Vessel][]: run into the center of it!
-* **H**: dispell [Crusader's Strike][] off tank
+* **H**: dispel [Crusader's Strike][] off tank
 
 ## Azzakel
 * P1: dps boss
