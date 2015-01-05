@@ -9,7 +9,7 @@ title: Auchindoun
 * **H**: [Fate](http://www.wowhead.com/spell=157465): he explodes all [Hallowed Ground][]s
 
 ## Soulbinder Nyami
-* Mind Spike: interrupt, that deals heavy single target damage.
+* [Mind Spike](http://www.wowhead.com/spell=154415): interrupt, deals heavy single target damage.
 * Adds: [Arbiter's Hammer][] and Magus's [Arcane Bomb][]: interrupt
 * [Soul Vessel][]: run into the center of it!
 * **H**: dispell [Crusader's Strike][] off tank
