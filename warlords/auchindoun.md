@@ -23,7 +23,7 @@ title: Auchindoun
     * 2: Felguards: tank should pick up 
     * 3: Blazing Tricksters: avoid!
 * **H**:
-    * use damage reducing cooldown while Pyromaniacs are active
+    * use [Divine Protection](http://www.wowhead.com/spell=498) while Pyromaniacs are active
     * [Fel Sparks](http://www.wowhead.com/spell=153725): lines of fire, avoid
 
 ## Teron’gor
