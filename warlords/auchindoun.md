@@ -45,7 +45,7 @@ title: Auchindoun
 * If targeted by [Seed of Malevolence](http://www.wowhead.com/spell=156921), run away from the rest of your party as the debuff nears completion to avoid spreading Seed to nearby players
 * **H**:
     * [Bloom of Malevolence](http://www.wowhead.com/spell=166461): Seed leaves a trail! be smart where you put it
-    * [Summon Abyssal](http://www.wowhead.com/spell=157214]: must be rooted, kited
+    * [Summon Abyssal](http://www.wowhead.com/spell=157214): must be rooted, kited
 
 ----
 
