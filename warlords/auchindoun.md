@@ -19,9 +19,9 @@ title: Auchindoun
     * [Fel Lash](http://www.wowhead.com/spell=153234): knocks tank back, tank should have back to wall
     * [Curtain of Flame](http://www.wowhead.com/spell=153396): AoE damage on random player, spread out! heavy healing!
 * P2: dps adds
-    * #1: Cackling Pyromaniacs: [Felblast][]: **interrupt**!
-    * #2: Felguards: tank should pick up 
-    * #3: Blazing Tricksters: avoid!
+    * 1: Cackling Pyromaniacs: [Felblast][]: **interrupt**!
+    * 2: Felguards: tank should pick up 
+    * 3: Blazing Tricksters: avoid!
 * **H**:
     * use damage reducing cooldown while Pyromaniacs are active
     * [Fel Sparks](http://www.wowhead.com/spell=153725): lines of fire, avoid
