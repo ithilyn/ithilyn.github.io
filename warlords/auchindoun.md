@@ -27,25 +27,25 @@ title: Auchindoun
     * [Fel Sparks](http://www.wowhead.com/spell=153725): lines of fire, avoid
 
 ## Teron’gor
-* P1: interrupt Rain of Fire and Drain life
-* P2: @75% health, switches to either Affliction, Daemonology, or Destruction
+* P1: interrupt [Rain of Fire][] and [Drain life][]
+* P2: @75% health, switches to either Affliction, Demonology, or Destruction
 * Dispel the following effects:
-    * [Drain Life](http://www.wowhead.com/spell=156854)
+    * [Drain Life][]
     * [Corruption](http://www.wowhead.com/spell=156842), if Demonology
     * [Curse of Exhaustion](http://www.wowhead.com/spell=164841), if Demonology or Affliction and you can dispel curses
     * [Immolate](http://www.wowhead.com/spell=156964), if Destruction
-    * **Do not dispel**: [Unstable Affliction](http://www.wowhead.com/spell=156954)
+    * **Do not dispel**: [Unstable Affliction][]
 * Focus single-target healing on:
-    * Players affected by [Seed of Malevolence](http://www.wowhead.com/spell=156921), [Agony](http://www.wowhead.com/spell=156925), and [Unstable Affliction](http://www.wowhead.com/spell=156954), if Affliction
+    * Players affected by [Seed of Malevolence][], [Agony](http://www.wowhead.com/spell=156925), and [Unstable Affliction][], if Affliction
     * The tank, if Destruction
     * Players affected by [Doom](http://www.wowhead.com/spell=156965), if Demonology
 * Move away from the following effects:
-    * [Rain of Fire](http://www.wowhead.com/spell=156857)
+    * [Rain of Fire][]
     * [Chaos Wave](http://www.wowhead.com/spell=157001), if Demonology
-* If targeted by [Seed of Malevolence](http://www.wowhead.com/spell=156921), run away from the rest of your party as the debuff nears completion to avoid spreading Seed to nearby players
+* If targeted by [Seed of Malevolence][], run away from the rest of your party as the debuff nears completion to avoid spreading Seed to nearby players
 * **H**:
-    * [Bloom of Malevolence](http://www.wowhead.com/spell=166461): Seed leaves a trail! be smart where you put it
-    * [Summon Abyssal](http://www.wowhead.com/spell=157214): must be rooted, kited
+    * [Bloom of Malevolence](http://www.wowhead.com/spell=166461): [Seed of Malevolence][] leaves a trail! be smart where you put it
+    * [Summon Abyssal](http://www.wowhead.com/spell=157214): cannot be killed, must be rooted, kited
 
 ----
 
@@ -59,3 +59,7 @@ title: Auchindoun
 [Arcane Bomb]: http://www.wowhead.com/spell=157794
 [Crusader's Strike]: http://www.wowhead.com/spell=176931
 [Felblast]: http://www.wowhead.com/spell=154221
+[Rain of Fire]: http://www.wowhead.com/spell=156857
+[Drain life]: http://www.wowhead.com/spell=156854
+[Unstable Affliction]: http://www.wowhead.com/spell=156954
+[Seed of Malevolence]: http://www.wowhead.com/spell=156921
