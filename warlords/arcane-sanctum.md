@@ -18,9 +18,9 @@ title: Arcane Sanctum
     * @33 energy: Shield Charge: charges random player, damages and DoTs them and everyone in the path
     * @66 energy: Interrupting Shout: silences, quit casting before it finishes
     * @100 energy: Pulverize: 
-        * #1: damages each player and anyone around them
-        * #2: 3 spikes fall from the ceiling dealing AOE damage to anyone below them
-        * #3: a massive spike falls in the center of the room dealing damage to everyone
+        * 1: damages each player and anyone around them
+        * 2: 3 spikes fall from the ceiling dealing AOE damage to anyone below them
+        * 3: a massive spike falls in the center of the room dealing damage to everyone
 * Phemos
     * @33 energy: Whirlwind: tank should drag away
     * @66 energy: Enfeebling Roar: stack up on tank to spread out the debuff
