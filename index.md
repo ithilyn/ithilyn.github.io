@@ -6,6 +6,7 @@ title: Ithilyn's Wiki
 ## Warlords Raids
 * [The Walled City](warlords/the-walled-city)
 * [Arcane Sanctum](warlords/arcane-sanctum)
+* [Imperator’s Rise](warlords/imperators-rise)
 
 ## Warlords Dungeons
   * [Bloodmaul Slag Mines](warlords/bloodmaul-slag-mines)
