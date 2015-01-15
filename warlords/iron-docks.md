@@ -33,3 +33,4 @@ title: Iron Docks
 
 ## Links
 * [TenTon Hammer](http://www.tentonhammer.com/guides/world-warcraft/warlords-draenor-iron-docks-guide)
+* [Wowhead](http://www.wowhead.com/guide=2667/iron-docks-dungeon-strategy-guide)
