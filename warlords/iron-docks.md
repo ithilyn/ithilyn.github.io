@@ -22,13 +22,14 @@ title: Iron Docks
 * [Time to Feed](http://www.wowhead.com/spell=162415) on random player (20sec)
     * use damage-reducing cooldown, or [Divine Shield](http://www.wowhead.com/spell=642)
     * top priority to dps down to stop it
+* run to keep ahead of acid spit
 * adds: dps down wolves and skyterrors asap, interrupt skyterrors' acid spit
 
 ## Skulloc
 * kill order: Koramar, Skulloc, Zoggosh
 * healing heaviest at first
 * Koramar: dangerous aoe
-* LoS Skulloc's [Cannon Barrage](http://www.wowhead.com/spell=168929), use [Devotion Aura](http://www.wowhead.com/spell=31821)
+* LoS Skulloc's [Cannon Barrage](http://www.wowhead.com/spell=168929), use [Devotion Aura](http://www.wowhead.com/spell=31821), Speed of Light to get behind bunker
 * move away from others if targeted by Zoggosh's [Rapid Fire](http://www.wowhead.com/spell=168348)
 
 ----
