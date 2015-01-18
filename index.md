@@ -4,19 +4,19 @@ title: Ithilyn's Wiki
 ---
 
 ## Warlords Raids
-* [The Walled City](warlords/the-walled-city)
-* [Arcane Sanctum](warlords/arcane-sanctum)
 * [Imperator’s Rise](warlords/imperators-rise)
+* [Arcane Sanctum](warlords/arcane-sanctum)
+* [The Walled City](warlords/the-walled-city)
 
 ## Warlords Dungeons
-  * [Bloodmaul Slag Mines](warlords/bloodmaul-slag-mines)
-  * [Iron Docks](warlords/iron-docks)
-  * [Auchindoun](warlords/auchindoun)
-  * [Skyreach](warlords/skyreach)
-  * [Shadowmoon Burial Grounds](warlords/shadowmoon-burial-grounds)
-  * [The Everbloom](warlords/the-everbloom)
-  * [Grimrail Depot](warlords/grimrail-depot)
   * [Upper Blackrock Spire](warlords/upper-blackrock-spire)
+  * [Grimrail Depot](warlords/grimrail-depot)
+  * [The Everbloom](warlords/the-everbloom)
+  * [Shadowmoon Burial Grounds](warlords/shadowmoon-burial-grounds)
+  * [Skyreach](warlords/skyreach)
+  * [Auchindoun](warlords/auchindoun)
+  * [Iron Docks](warlords/iron-docks)
+  * [Bloodmaul Slag Mines](warlords/bloodmaul-slag-mines)
 
 ----
 
